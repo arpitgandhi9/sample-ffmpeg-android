@@ -1,0 +1,16 @@
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+/Sample-ffmpeg-android.iml
+/build/
+/.idea/
+/gradle.properties
+/gradlew
+/gradle/
+/.gradle/
+/gradlew.bat
