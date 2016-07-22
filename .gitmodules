@@ -1,0 +1,3 @@
+[submodule "ffmpeg-android"]
+	path = ffmpeg-android
+	url = git@github.com:arpitgandhi9/ffmpeg-android.git
